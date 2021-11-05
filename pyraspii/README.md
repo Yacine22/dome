@@ -1,4 +1,4 @@
-#pyraspii 
+# pyraspii 
 * pyraspii is a package to ensure a serial communication with i2c protocol from raspberry Pi*
 
 ## Table of Contents
