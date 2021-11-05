@@ -1,0 +1,5 @@
+/home/pi/dome/v0/build/CMakeFiles/rebuild_cache.dir
+/home/pi/dome/v0/build/CMakeFiles/pyraspii.dir
+/home/pi/dome/v0/build/CMakeFiles/edit_cache.dir
+/home/pi/dome/v0/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/pi/dome/v0/build/pybind11/CMakeFiles/edit_cache.dir

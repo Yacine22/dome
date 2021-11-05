@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -DVERSION_INFO=\"0.1\" -O3 -DNDEBUG -flto -shared  -o ../lib.linux-armv7l-3.7/pyraspii.cpython-37m-arm-linux-gnueabihf.so CMakeFiles/pyraspii.dir/rasp_master.cpp.o 

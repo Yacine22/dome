@@ -1,0 +1,5 @@
+/home/pi/dome/v0/build/temp.linux-armv7l-3.7/CMakeFiles/rebuild_cache.dir
+/home/pi/dome/v0/build/temp.linux-armv7l-3.7/CMakeFiles/pyraspii.dir
+/home/pi/dome/v0/build/temp.linux-armv7l-3.7/CMakeFiles/edit_cache.dir
+/home/pi/dome/v0/build/temp.linux-armv7l-3.7/pybind11/CMakeFiles/rebuild_cache.dir
+/home/pi/dome/v0/build/temp.linux-armv7l-3.7/pybind11/CMakeFiles/edit_cache.dir

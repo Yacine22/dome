@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyraspii
+Version: 0.1
+Summary: A hybrid Python/C++ dome test project
+Home-page: UNKNOWN
+Author: Yacine Merabet
+Author-email: yacine.merabet@mercurioimaging.com
+License: UNKNOWN
+Description: Serial Communication Package
+Platform: UNKNOWN
