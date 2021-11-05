@@ -17,9 +17,9 @@ For now, user can install **pyraspii** package through wheel files:
 * From the [dist directory](/dist) download the .whl file
 * Use pip command 
 
-	python3 -m pip install pyraspii-0.1-cp37-cp37m-linux_armv7l.whl
+		python3 -m pip install pyraspii-0.1-cp37-cp37m-linux_armv7l.whl
 * or 
-	sudo apt-get install pyraspii
+		sudo apt-get install pyraspii
 
 ### Usage 
 The **pyraspii** package is composed of modules:
@@ -43,7 +43,7 @@ The data format is defined as integers
 
 ## Hardware Description
 
- Raspberry                                   
+		 Raspberry                                   
 		 ______                               Arduino nano / Attiny
 		|      |                                    _________
 		|      |                                   |         |
