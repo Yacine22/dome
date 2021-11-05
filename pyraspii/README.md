@@ -66,8 +66,8 @@ You must get the Pi IP address and replace x.x
 
 * git clone this repository
 
-		git clone https://github.com/piraspii...
-		cd pyraspii
+		git clone git@github.com:Yacine22/dome.git
+		cd dome/pyraspii
 
 * install pyraspii 
 		
