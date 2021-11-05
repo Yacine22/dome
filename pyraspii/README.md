@@ -14,7 +14,7 @@ The pyraspii is a package which must be installed in Raspberry OS.
 It requires **Python 3.7** or any later version.
 For now, user can install **pyraspii** package through wheel files:
 
-* From the [dist directory](/dist) download the .whl file
+* From the [dist directory](./dist) download the .whl file
 * Use pip command 
 
 		python3 -m pip install pyraspii-0.1-cp37-cp37m-linux_armv7l.whl
