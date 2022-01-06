@@ -44,7 +44,7 @@ The data format is defined as integers
 ## Hardware Description
 
 		 Raspberry                                   
-		 ______                               Arduino nano / Attiny
+		 ______                               Arduino nano / ATtiny
 		|      |                                    _________
 		|      |                                   |         |
 		|      - .............>  SDA  ...........> -         | 0x44
